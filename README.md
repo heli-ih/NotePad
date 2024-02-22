@@ -1,6 +1,6 @@
 ## NotePad
 
-NotePad project provides a robust solution for managing notes with CRUD operations implemented in React. It incorporates Toasts, lightweight notifications mimicking push notifications, enhancing user interaction. Crafted by a skilled Front-End developer proficient in ReactJS, TailwindCSS, and Toast.
+NotePad project provides a robust solution for managing notes with CRUD operations implemented in React. It incorporates Toasts, lightweight notifications mimicking push notifications, enhancing user interaction. 
 
 ## Key Features:
 
